@@ -1,0 +1,1 @@
+Alyssa P. Hacker is not correct. By taking the mod in each step, we keep our numbers small and keep our operations fast. If we only take the mod at the last step, our numbers would get really big during multiplication and we could face integer overflow as well as slowdowns.
