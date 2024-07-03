@@ -1,0 +1,1 @@
+Louis's method of writing the procedure causes the expmod to be calculated twice at each step (n), creating 2^n calculations. The original algorithm ran in O(log(n)) time. Replacing n with 2^n gives us O(log(2^n)) time, which is equal to O(n).
