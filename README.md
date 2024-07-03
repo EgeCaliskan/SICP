@@ -3,7 +3,7 @@ I am creating this repo to log my progress and save my solutions in Structure an
 
 ### 1 - Building Abstractions with Procedures   
 - [x] 1.1 - The Elements of Programming  
-- [ ] 1.2 - Procedures and the Processes They Generate   
+- [x] 1.2 - Procedures and the Processes They Generate   
 - [ ] 1.3 - Formulating Abstractions with Higher-Order Procedures
 ### 2 - Building Abstractions With Data
 - [ ] 2.1 Introduction to Data Abstraction
