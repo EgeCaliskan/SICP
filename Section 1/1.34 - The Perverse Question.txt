@@ -1,1 +1,1 @@
-(f f) evaluates to (f 2) and (f 2) throws an error because the function f can only be applied to other functions. 
+(f f) evaluates to (f 2) and (f 2) throws an error because the function f can only be applied to functions. 
