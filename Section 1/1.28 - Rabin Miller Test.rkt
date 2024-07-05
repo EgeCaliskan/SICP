@@ -22,7 +22,9 @@
   )
 
 (define (rabin-miller-test n a)
-  (cond ((even? n) false)
+  (cond ((= n 2) true)
+        ((= n 1) false)
+        ((even? n) false)
         ((< a n ) (if (= (expmod a (dec n) n) 0)
                       false
                       (rabin-miller-test n (inc a))
