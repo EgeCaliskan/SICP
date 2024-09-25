@@ -4,7 +4,7 @@ I am creating this repo to log my progress and save my solutions in Structure an
 ### 1 - Building Abstractions with Procedures   
 - [x] 1.1 - The Elements of Programming  
 - [x] 1.2 - Procedures and the Processes They Generate   
-- [ ] 1.3 - Formulating Abstractions with Higher-Order Procedures
+- [x] 1.3 - Formulating Abstractions with Higher-Order Procedures
 ### 2 - Building Abstractions With Data
 - [ ] 2.1 Introduction to Data Abstraction
 - [ ] 2.2 Hierarchical Data and the Closure Property
@@ -17,12 +17,12 @@ I am creating this repo to log my progress and save my solutions in Structure an
 - [ ] 3.3 Modeling with Mutable Data
 - [ ] 3.4 Concurrency: Time Is of the Essence
 - [ ] 3.5 Streams
-#### 4 - Metalinguistic Abstraction
+### 4 - Metalinguistic Abstraction
 - [ ] 4.1 The Metacircular Evaluator
 - [ ] 4.2 Variations on a Scheme - Lazy Evaluation
 - [ ] 4.3 Variations on a Scheme - Nondeterministic Computing
 - [ ] 4.4 Logic Programming
-#### 5 - Computing with Register Machines 
+### 5 - Computing with Register Machines 
 - [ ] 5.1 Designing Register Machines
 - [ ] 5.2 A Register-Machine Simulator
 - [ ] 5.3 Storage Allocation and Garbage Collection
