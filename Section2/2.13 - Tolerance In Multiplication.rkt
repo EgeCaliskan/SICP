@@ -13,6 +13,10 @@
   (make-interval (* point (- 100 percent) 0.01) (* point (+ 100 percent) 0.01))
   )
 
+(define (center i)
+  (/ (+ (lower-bound i) 
+        (upper-bound i)) 
+     2))
 
 (define (percent interval)
   (- (/ (upper-bound interval) (center interval) 0.01 ) 100)
