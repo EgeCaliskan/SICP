@@ -22,7 +22,7 @@
 
 (define (div-interval x y)
   (begin
-    (if (or (= x 0) (= y 0))
+    (if (or (= (lower-bound y) 0) (= (upper-bound y) 0))
      (display "Cannot divide by zero.")
      (mult-interval x 
                    (make-interval 
