@@ -1,6 +1,6 @@
 # SICP
-I am creating this repo to log my progress and save my solutions in Structure and Interpretation of Computer Programs.
-
+I am using this repo to log my progress and save my solutions in Structure and Interpretation of Computer Programs.
+Here's a link to the website I'm using: https://sarabander.github.io/sicp/
 ### 1 - Building Abstractions with Procedures   
 - [x] 1.1 - The Elements of Programming  
 - [x] 1.2 - Procedures and the Processes They Generate   
