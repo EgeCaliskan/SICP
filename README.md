@@ -6,7 +6,7 @@ Here's a link to the website I'm using: https://sarabander.github.io/sicp/
 - [x] 1.2 - Procedures and the Processes They Generate   
 - [x] 1.3 - Formulating Abstractions with Higher-Order Procedures
 ### 2 - Building Abstractions With Data
-- [ ] 2.1 Introduction to Data Abstraction
+- [x] 2.1 Introduction to Data Abstraction
 - [ ] 2.2 Hierarchical Data and the Closure Property
 - [ ] 2.3 Symbolic Data
 - [ ] 2.4 Multiple Representations for Abstract Data
